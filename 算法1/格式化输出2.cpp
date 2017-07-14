@@ -16,14 +16,14 @@ vector<string> getStrList(char * str)
 	while(ch!='\0')
 	{
 
-		if (ch>='0'&&ch<='9')//Êý×Ö
+		if (ch>='0'&&ch<='9')//æ•°å­—
 		{
 			temp+=ch;
 			ch=str[++num];
 		}
-		else                //ÔËËã·û
+		else                //è¿ç®—ç¬¦
 		{
-			string s_ch;   //½«ÔËËã·û×ª»¯ÎªstringÀàÐÍ£¨char¡ª>string£©
+			string s_ch;   //å°†è¿ç®—ç¬¦è½¬åŒ–ä¸ºstringç±»åž‹ï¼ˆcharâ€”>stringï¼‰
 			stringstream stream;
 			stream<<ch;
 			s_ch = stream.str();  

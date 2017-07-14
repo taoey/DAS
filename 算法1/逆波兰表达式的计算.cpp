@@ -1,5 +1,5 @@
-/*
-¼ÆËãÄæ²¨À¼±í´ïÊ½
+ï»¿/*
+è®¡ç®—é€†æ³¢å…°è¡¨è¾¾å¼
 */
 
 #include<stack>
@@ -10,7 +10,7 @@
 #include <exception>  
 using namespace std;
 
-/*»ñÈ¡ÓÃ»§×Ö·û´®²¢½øĞĞ½ØÈ¡»ñµÃstringÊı×é*/
+/*è·å–ç”¨æˆ·å­—ç¬¦ä¸²å¹¶è¿›è¡Œæˆªå–è·å¾—stringæ•°ç»„*/
 vector<string> getStrList(char * str)
 {
 	char ch;
@@ -30,31 +30,31 @@ vector<string> getStrList(char * str)
 	while (ch != '\0')
 	{
 		
-		if (ch >= '0'&&ch <= '9')//Êı×Ö
+		if (ch >= '0'&&ch <= '9')//æ•°å­—
 		{
 			temp += ch;
 			ch = str[++num];
 		}
-		else if (ch == '-')  //ÅĞ¶Ï'-'ÊÇÔËËã·û»¹ÊÇ¸ººÅ
+		else if (ch == '-')  //åˆ¤æ–­'-'æ˜¯è¿ç®—ç¬¦è¿˜æ˜¯è´Ÿå·
 		{
-			if (str[--num] == '(') //¸ººÅ
+			if (str[--num] == '(') //è´Ÿå·
 			{
 				temp += ch;
 				num++;
 				ch = str[++num];
 				
 			}
-			else                   //¼õºÅ
+			else                   //å‡å·
 			{
 				num++;
-				string s_ch;   //½«ÔËËã·û×ª»¯ÎªstringÀàĞÍ£¨char¡ª>string£©
+				string s_ch;   //å°†è¿ç®—ç¬¦è½¬åŒ–ä¸ºstringç±»å‹ï¼ˆcharâ€”>stringï¼‰
 				stringstream stream;
 				stream << ch;
 				s_ch = stream.str();
 
 				if (temp != "")
 				{
-					list.push_back(temp); //ÏÈ°ÑÖ®Ç°²Ù×÷µÄÊıÈë½á¹û¼¯
+					list.push_back(temp); //å…ˆæŠŠä¹‹å‰æ“ä½œçš„æ•°å…¥ç»“æœé›†
 				}
 				list.push_back(s_ch);
 				temp = "";
@@ -62,18 +62,18 @@ vector<string> getStrList(char * str)
 
 			}
 		}
-		else                //ÆäËûÔËËã·û
+		else                //å…¶ä»–è¿ç®—ç¬¦
 		{
-			string s_ch;   //½«ÔËËã·û×ª»¯ÎªstringÀàĞÍ£¨char¡ª>string£©
+			string s_ch;   //å°†è¿ç®—ç¬¦è½¬åŒ–ä¸ºstringç±»å‹ï¼ˆcharâ€”>stringï¼‰
 			stringstream stream;
 			stream << ch;
 			s_ch = stream.str();
 
-			if (temp != "")        // ÏÈ°ÑÖ®Ç°²Ù×÷µÄÊıÈë½á¹û¼¯
+			if (temp != "")        // å…ˆæŠŠä¹‹å‰æ“ä½œçš„æ•°å…¥ç»“æœé›†
 			{
 				list.push_back(temp); 
 			}			
-			list.push_back(s_ch); //°ÑÕâ¸ö²Ù×÷·ûÈë½á¹û¼¯
+			list.push_back(s_ch); //æŠŠè¿™ä¸ªæ“ä½œç¬¦å…¥ç»“æœé›†
 			temp = "";
 			ch = str[++num];
 
@@ -86,8 +86,8 @@ vector<string> getStrList(char * str)
 }
 
 
-/*¶¨ÒåÓÅÏÈ¼¶±ğ*/ 
-int priority(string str)//ÆäÊµÖ»ĞèÒªÓĞ+-*/ ¼´¿É,µ«ÎªÁË¿´³öÆäËû×Ö·ûµÄÓÅÏÈ¼¶¾Í¶àĞ´ÁËĞ©
+/*å®šä¹‰ä¼˜å…ˆçº§åˆ«*/ 
+int priority(string str)//å…¶å®åªéœ€è¦æœ‰+-*/ å³å¯,ä½†ä¸ºäº†çœ‹å‡ºå…¶ä»–å­—ç¬¦çš„ä¼˜å…ˆçº§å°±å¤šå†™äº†äº›
 {	
 	int i=-1;
 	if (str == "(")
@@ -104,7 +104,7 @@ int priority(string str)//ÆäÊµÖ»ĞèÒªÓĞ+-*/ ¼´¿É,µ«ÎªÁË¿´³öÆäËû×Ö·ûµÄÓÅÏÈ¼¶¾Í¶àĞ´
 }
 
 
-/*ÅĞ¶ÏÒ»¸ö×Ö·û´®ÊÇ·ñÎªÊı×Ö*/
+/*åˆ¤æ–­ä¸€ä¸ªå­—ç¬¦ä¸²æ˜¯å¦ä¸ºæ•°å­—*/
 bool isNum(string str)
 {
 	stringstream sin(str);
@@ -117,7 +117,7 @@ bool isNum(string str)
 	return true;
 }
 
-/*°ÑÒ»¸ö×Ö·û´®×ª»¯Îªint*/
+/*æŠŠä¸€ä¸ªå­—ç¬¦ä¸²è½¬åŒ–ä¸ºint*/
 int str2num(string s)
 {
 	int num;
@@ -125,26 +125,26 @@ int str2num(string s)
 	ss >> num;
 	return num;
 }
-/*½«vector ×Ö·û´®×ª»¯ÎªÄæ²¨À¼±í´ïÊ½*/
+/*å°†vector å­—ç¬¦ä¸²è½¬åŒ–ä¸ºé€†æ³¢å…°è¡¨è¾¾å¼*/
 vector<string> trans(vector<string> & data)
 {
-	vector<string>result;//½á¹û¼¯
-	stack<string> operate;//²Ù×÷ÔËËãÕ»
+	vector<string>result;//ç»“æœé›†
+	stack<string> operate;//æ“ä½œè¿ç®—æ ˆ
 
-	//±éÀúÊı¾İ¼¯ÖĞµÄÃ¿Ò»¸öÔªËØ
+	//éå†æ•°æ®é›†ä¸­çš„æ¯ä¸€ä¸ªå…ƒç´ 
 	for (int i = 0;i < data.size();i++)
 	{		
-		if (isNum(data[i]))//Êı×Ö,Ö±½ÓÈë½á¹û¼¯
+		if (isNum(data[i]))//æ•°å­—,ç›´æ¥å…¥ç»“æœé›†
 		{
 			result.push_back(data[i]);
 		}
-		else if (data[i]=="(")//×óÀ¨ºÅ,Ö±½ÓÑ¹Õ»
+		else if (data[i]=="(")//å·¦æ‹¬å·,ç›´æ¥å‹æ ˆ
 		{
 			operate.push(data[i]);
 		}
-		else if (data[i] ==")")//ÓÒÀ¨ºÅ,Á¬Ğø²»¶Ïµ¯Õ»Ö±µ½Óöµ½×óÀ¨ºÅ
+		else if (data[i] ==")")//å³æ‹¬å·,è¿ç»­ä¸æ–­å¼¹æ ˆç›´åˆ°é‡åˆ°å·¦æ‹¬å·
 		{
-			while(!operate.empty()&&operate.top() != "(")//²Ù×÷Õ»²»Îª¿Õ,²¢ÇÒÕ»¶¥ÔªËØ²»ÊÇÓÒÀ¨ºÅ
+			while(!operate.empty()&&operate.top() != "(")//æ“ä½œæ ˆä¸ä¸ºç©º,å¹¶ä¸”æ ˆé¡¶å…ƒç´ ä¸æ˜¯å³æ‹¬å·
 			{
 				result.push_back(operate.top());
 				operate.pop();
@@ -167,7 +167,7 @@ vector<string> trans(vector<string> & data)
 		}
 	}
 
-	//Êı¾İ¼¯±éÀú½áÊø,½«Õ»ÖĞÊ£ÓàµÄÔªËØÈ«²¿Ìí¼Óµ½½á¹ûÖĞ
+	//æ•°æ®é›†éå†ç»“æŸ,å°†æ ˆä¸­å‰©ä½™çš„å…ƒç´ å…¨éƒ¨æ·»åŠ åˆ°ç»“æœä¸­
 	while (!operate.empty())
 	{
 		result.push_back(operate.top());
@@ -177,14 +177,14 @@ vector<string> trans(vector<string> & data)
 	return result;
 }
 
-/*¼ÆËãÄæ²¨À¼±í´ïÊ½*/
+/*è®¡ç®—é€†æ³¢å…°è¡¨è¾¾å¼*/
 double getResult(vector<string> & data)
 {
 	double  c, a, b;
 	stack<double> operate;
 	for (int i = 0; i < data.size(); i++)
 	{
-		if (isNum(data[i]))        //Êı×Ö,×ª»¯ÎªÊµ¼ÊdoubleÈë²Ù×÷Õ»
+		if (isNum(data[i]))        //æ•°å­—,è½¬åŒ–ä¸ºå®é™…doubleå…¥æ“ä½œæ ˆ
 		{
 			operate.push(atof(data[i].c_str()));
 		}

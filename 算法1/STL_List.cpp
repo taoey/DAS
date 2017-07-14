@@ -10,14 +10,14 @@ int main()
 {
 // 	int n;
 // 	cin>>n;
-// 	list<int> numList;      //ÉùÃ÷Ò»¸öË«ÏòÁ´±í
+// 	list<int> numList;      //å£°æ˜ä¸€ä¸ªåŒå‘é“¾è¡¨
 // 
-// 	for(int i=1;i<=n;i++)   //³õÊ¼»¯Ò»¸öÁ´±í
+// 	for(int i=1;i<=n;i++)   //åˆå§‹åŒ–ä¸€ä¸ªé“¾è¡¨
 // 	{
 // 		numList.push_back(i);
 // 	}
 // 
-// 	list<int>::iterator it; //ÉùÃ÷Ò»¸öË«ÏòÁ´±íµü´úÆ÷
+// 	list<int>::iterator it; //å£°æ˜ä¸€ä¸ªåŒå‘é“¾è¡¨è¿­ä»£å™¨
 // 
 // 	numList.remove_if([](int t){return t<3;});
 

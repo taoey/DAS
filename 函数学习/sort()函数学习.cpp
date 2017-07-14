@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 #include<vector>
 #include<algorithm>
 using namespace std;
@@ -12,7 +12,7 @@ public:
 };
 
 bool compare(aa a, aa b) {
-       return a.x < b.x;    // "<"ÊÇÉıĞòÅÅÁĞ   ">"ÊÇ½µĞòÅÅÁĞ
+       return a.x < b.x;    // "<"æ˜¯å‡åºæ’åˆ—   ">"æ˜¯é™åºæ’åˆ—
 }
 
 int main() {

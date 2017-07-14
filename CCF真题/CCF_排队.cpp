@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include<vector>
 #include<algorithm>
 using namespace std;
@@ -62,5 +62,5 @@ int main() {
 
 
 /*
-vector<int>().swap(myvector);//ÊÍ·ÅµôÎŞÓÃÄÚ´æ
+vector<int>().swap(myvector);//é‡Šæ”¾æ‰æ— ç”¨å†…å­˜
 */

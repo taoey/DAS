@@ -1,5 +1,5 @@
-/* 
-find_if()  +vector ¾ÙÀı
+ï»¿/* 
+find_if()  +vector ä¸¾ä¾‹
 
 */
 
@@ -33,6 +33,6 @@ int main() {
        aaList.push_back(a3);
 
         vector<aa>::iterator it=find_if(aaList.begin(), aaList.end(),cc<4>);
-        int a = distance(aaList.begin(), it);//¼ÆËãÕÒµ½µÄµÚÒ»¸ö·ûºÏÒªÇóµÄÖµµÄÏÂ±ê
+        int a = distance(aaList.begin(), it);//è®¡ç®—æ‰¾åˆ°çš„ç¬¬ä¸€ä¸ªç¬¦åˆè¦æ±‚çš„å€¼çš„ä¸‹æ ‡
        return 0;
 }

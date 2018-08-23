@@ -1,6 +1,5 @@
 #java
 bin/**
-.idea/**
 .settings/**
 *.class
 /bin/

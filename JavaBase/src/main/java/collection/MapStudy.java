@@ -20,6 +20,7 @@ public class MapStudy {
 
 
         System.out.println(treeMap);
+        System.out.println(hashMap);
 
 
 

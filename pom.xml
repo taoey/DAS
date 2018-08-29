@@ -11,7 +11,6 @@
     <modules>
         <module>CCF</module>
         <module>Leetcode</module>
-        <module>MySort</module>
         <module>MyDataStructures</module>
         <module>JavaBase</module>
         <module>DesignPattern</module>
@@ -19,6 +18,16 @@
         <module>DataStructuresProblem</module>
         <module>Algorithm</module>
     </modules>
-
-
+    <properties>
+        <junit.version>4.12</junit.version>
+    </properties>
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>${junit.version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
 </project>

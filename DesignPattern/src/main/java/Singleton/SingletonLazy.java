@@ -1,3 +1,5 @@
+package Singleton;
+
 public class SingletonLazy {
     private SingletonLazy() {}  //私有构造函数
     private static SingletonLazy instance = null;  //单例对象

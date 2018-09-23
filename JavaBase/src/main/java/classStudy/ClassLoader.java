@@ -37,14 +37,14 @@ public class ClassLoader {
 
     @Test
     public void test01(){
-        //System.out.println(MyCat.name1);
+        System.out.println(MyCat.name1);
         //System.out.println(MyCat.name2);
         //MyCat.show();
         //MyCat.show2();
        // System.out.println("--------------------------");
 
-        MyCat hv = new MyCat();
-        MyCat bai = new MyCat();
+        //MyCat hv = new MyCat();
+        //MyCat bai = new MyCat();
         //System.out.println("--------------------------");
 
 

@@ -50,8 +50,20 @@ public class MapStudy {
         System.out.println("处理过后的："+ hash);
         System.out.println(place);
     }
+
+    @Test
+    public void HashMapTest01(){
+        Map<Integer,Integer> map = new HashMap<Integer, Integer>();
+        Integer put = map.put(1, 2);
+        Integer put1 = map.put(1, 4);
+        System.out.println(put1);
+        System.out.println(map.get(1));
+    }
     @Test
     public  void ConcurrentHashMapStudy(){
         ConcurrentHashMap map  = new ConcurrentHashMap();
     }
+
+
+
 }

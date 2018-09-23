@@ -17,6 +17,7 @@
         <module>Others</module>
         <module>DataStructuresProblem</module>
         <module>Algorithm</module>
+        <module>DesignPartten</module>
     </modules>
     <properties>
         <junit.version>4.12</junit.version>

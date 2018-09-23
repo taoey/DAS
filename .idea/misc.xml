@@ -11,6 +11,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/DesignPartten/pom.xml" />
         <option value="$PROJECT_DIR$/MySort/pom.xml" />
       </set>
     </option>

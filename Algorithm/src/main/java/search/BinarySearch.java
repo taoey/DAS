@@ -3,9 +3,9 @@ package search;
 public class BinarySearch {
 	
 	/**
-	 * 查找num所在的位置
-	 * @param array
-	 * @param num
+	 * 二分查找法
+	 * @param arr
+	 * @param key
 	 */
 	public static int binarySearch(int [] arr,int key) {
 		int low = 0;

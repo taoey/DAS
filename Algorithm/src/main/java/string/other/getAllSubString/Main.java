@@ -34,7 +34,7 @@ public class Main {
 
     @Test
     public void test00(){
-        List r = getAllSubString2("abcdef");
+        List r = getAllSubString("abcdef");
         System.out.println(r);
     }
 }

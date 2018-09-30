@@ -1,4 +1,4 @@
-package Leetcode98_isValidBST;
+package LeetCode.a98_isValidBST;
 
 /**
  *  题目地址:https://leetcode-cn.com/problems/validate-binary-search-tree/description/

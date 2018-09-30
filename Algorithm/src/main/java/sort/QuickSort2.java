@@ -13,7 +13,7 @@ public class QuickSort2 {
     }
 
     /**
-     * 三值取中 (必须保证有三个值啊)
+     * 三值取中
      * @param arr
      * @param left
      * @param right
@@ -60,8 +60,8 @@ public class QuickSort2 {
     }
 
     public static void main(String[] args) {
-        //int [] arr ={6,1,4,5,9,10,6,6};
-        int [] arr ={2,1};
+        int [] arr ={6,1,4,5,9,10,6,6};
+        //int [] arr ={2,1};
         QuickSort(arr,0,arr.length-1);
         System.out.println(Arrays.toString(arr));
     }

@@ -1,5 +1,7 @@
 package sort;
 
+import java.util.Arrays;
+
 /**
  * 快速排序
  */
@@ -38,6 +40,6 @@ public class QuickSort {
         int [] arr ={3, 2, 5, 7, 6, 8};
 
         QuickSort(arr,0,arr.length-1);
-        System.out.println(arr);
+        System.out.println(Arrays.toString(arr));//[2, 3, 5, 6, 7, 8]
     }
 }

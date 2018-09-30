@@ -1,4 +1,4 @@
-package Leetcode160_getIntersectionNode;
+package LeetCode.p160_getIntersectionNode;
 
 class ListNode {
 	 int val;

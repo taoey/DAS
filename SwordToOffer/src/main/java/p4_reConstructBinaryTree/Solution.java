@@ -1,4 +1,4 @@
-package SwordToOffer.p4_reConstructBinaryTree;
+package p4_reConstructBinaryTree;
 
 /**
  * 重建二叉树

@@ -1,4 +1,4 @@
-package SwordToOffer.p1_arrayFind;
+package p1_arrayFind;
 
 import org.junit.Test;
 

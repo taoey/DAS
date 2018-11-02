@@ -1,4 +1,4 @@
-package SwordToOffer.p3_printListFromTailToHead;
+package p3_printListFromTailToHead;
 
 
 import org.junit.Test;

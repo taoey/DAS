@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyDataStructures/MyDataStructures.iml" filepath="$PROJECT_DIR$/MyDataStructures/MyDataStructures.iml" />
       <module fileurl="file://$PROJECT_DIR$/Others/Others.iml" filepath="$PROJECT_DIR$/Others/Others.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwordToOffer/SwordToOffer.iml" filepath="$PROJECT_DIR$/SwordToOffer/SwordToOffer.iml" />
     </modules>
   </component>
 </project>

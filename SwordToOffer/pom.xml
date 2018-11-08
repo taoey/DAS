@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>GetOffer</artifactId>
+    <artifactId>SwordToOffer</artifactId>
 
     <dependencies>
         <dependency>

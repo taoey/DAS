@@ -1,165 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1f6b812-fdde-4fcf-9bf3-2702d7394379" name="Default" comment="update">
-      <change afterPath="$PROJECT_DIR$/Others/src/main/java/xiaoniangao/p1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Others/src/main/java/xiaoniangao/p2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Others/src/main/java/xiaoniangao/p3/Main.java" afterDir="false" />
+    <list default="true" id="f3164a97-78b1-47c4-b609-0ec358b52726" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Others/src/main/java/aiqiyi/P2/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Others/src/main/java/aiqiyi/P2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/SwordToOffer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/SwordToOffer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwordToOffer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SwordToOffer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCF/CCF.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresProblem/DataStructuresProblem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/JavaBase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/main/java/file/mergeFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBase/src/main/java/file/MergeFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/main/java/reflection/reflection1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBase/src/main/java/reflection/Reflection1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Leetcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyDataStructures/MyDataStructures.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Others.iml" beforeDir="false" />
     </list>
-    <ignored path="DSA.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path=".idea/dataSources.local.xml" />
-    <ignored path="$PROJECT_DIR$/CCF/target/" />
-    <ignored path="$PROJECT_DIR$/MyDataStructures/target/" />
-    <ignored path="$PROJECT_DIR$/Leetcode/target/" />
-    <ignored path="$PROJECT_DIR$/JavaBase/target/" />
-    <ignored path="$PROJECT_DIR$/DesignPattern/target/" />
-    <ignored path="$PROJECT_DIR$/MySort/target/" />
-    <ignored path="$PROJECT_DIR$/Others/target/" />
-    <ignored path="$PROJECT_DIR$/DataStructuresProblem/target/" />
     <ignored path="$PROJECT_DIR$/Algorithm/target/" />
-    <ignored path="$PROJECT_DIR$/DesignPartten/target/" />
-    <ignored path="$PROJECT_DIR$/GetOffer/target/" />
-    <ignored path="$PROJECT_DIR$/SwordToOffer/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructuresProblem/target/" />
+    <ignored path="$PROJECT_DIR$/CCF/target/" />
+    <ignored path="$PROJECT_DIR$/JavaBase/target/" />
+    <ignored path="$PROJECT_DIR$/Leetcode/target/" />
+    <ignored path="$PROJECT_DIR$/Others/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/MyDataStructures/target/" />
+    <ignored path="$PROJECT_DIR$/DesignPattern/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/DSA$Main.coverage" NAME="Main Coverage Results" MODIFIED="1537065528817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>tengxun.p1.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/DSA$InsertionSort.coverage" NAME="InsertionSort Coverage Results" MODIFIED="1535020854746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>sort.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/DSA$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1536194726315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>sort.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/DSA$Main_test00__1_.coverage" NAME="Main.test00 (1) Coverage Results" MODIFIED="1538644414792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>package0and1.*</FILTER>
-    </SUITE>
-  </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1977070173">
+    <session id="-623570039">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.25" value="2" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.42" value="1" />
-          <entry key="project.open.time.44" value="1" />
-          <entry key="project.open.time.60" value="1" />
-          <entry key="project.open.time.64" value="1" />
-          <entry key="project.open.time.65" value="1" />
-          <entry key="project.open.time.66" value="1" />
-          <entry key="project.open.time.67" value="1" />
-          <entry key="project.open.time.81" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="java" value="15" />
-          <entry key="xml" value="6" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="15" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="819" />
-          <entry key="txt" value="7" />
-          <entry key="xml" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="819" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="XML" value="4" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="DSA" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwordToOffer/src/main/java/p4_reConstructBinaryTree/Solution.java">
+        <entry file="file://$PROJECT_DIR$/DataStructuresProblem/src/main/java/Tree/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-              <folding>
-                <element signature="docComment;class#TreeNode#0;class#Solution#0" />
-                <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="230">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwordToOffer/pom.xml">
+        <entry file="file://$PROJECT_DIR$/JavaBase/src/main/java/collection/ArrayListStudy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwordToOffer/src/main/java/p1_arrayFind/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="322">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Others/src/main/java/xiaoniangao/p1/Main.java">
+        <entry file="file://$PROJECT_DIR$/JavaBase/src/main/java/reflection/Reflection1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+            <state relative-caret-position="115">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -168,98 +95,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/jdk1.8.0_161/src.zip!/java/util/Deque.java">
+        <entry file="file://$PROJECT_DIR$/JavaBase/src/main/java/file/MergeFiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4770">
-              <caret line="298" column="33" selection-start-line="298" selection-start-column="33" selection-end-line="298" selection-end-column="33" />
+            <state relative-caret-position="230">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaBase/src/main/java/file/UpdateFilesName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-121">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Singleton" />
-        <option value="JUnit4 Test Class" />
-        <option value="package-info" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Algorithm/src/main/java/search/BinarySearch.md" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/JavaBase/src/main/java/collection/StackStudy.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/JavaBase/src/main/java/Thread/orderNumbers/Main2.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Algorithm/pom.xml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/package0and1/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/JavaBase/src/main/java/collection/MapStudy.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/JavaBase/src/main/java/collection/LinkedListStudy.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Algorithm/src/main/java/sort/BubbleSort.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/SwordToOffer/src/main/java/p3_printListFromTailToHead/Solution.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Others/src/main/java/aiqiyi/P3/Main.java" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Algorithm/src/main/java/string/other/getAllSubString/Main.java" />
-        <option value="$PROJECT_DIR$/Others/src/main/java/yongyou/p1/Main.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/LeetCode167_twoSum/Solution.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/a98_isValidBST/Leetcode98_isValidBST.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/167_twoSum/Solution.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p167_twoSum/Solution.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p160_getIntersectionNode/Leetcode160_getIntersectionNode.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p633_judgeSquareSum/Solution.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p141_hasCycle/Solution.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p206_reverseList/Leetcode206_reverseList.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p206_reverseList/Solution.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p524_findLongestWord/Solution.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p347_topKFrequent/Solution.java" />
-        <option value="$PROJECT_DIR$/JavaBase/src/main/java/file/UpdateFilesName.java" />
-        <option value="$PROJECT_DIR$/Others/src/main/java/zhihu/p2/Main.java" />
-        <option value="$PROJECT_DIR$/Others/src/main/java/zhihu/p3/Main.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p150_evalRPN/Solution.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p70_climbStairs/Solution.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/backage0and1/Main.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/main/java/package0and1/Main.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/IStudentDao.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/TeacherDaoImpI.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/pom.xml" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/IteacherDao.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/service/Log.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/service/Logger.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/IstudentProxy.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/IstudentDaoProxy.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/service/AccessValidator.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/common/AccessValidator.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/IstudentDao.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/StudentDaoImpI.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/common/Logger.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/DaoLogHandler.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/common/DaoFactory.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/IproxyBase.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/StudentDaoProxyImpI.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/ProxyDaoHandler.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/common/ProxyDaoFactory.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/common/IProxyDaoFactory.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/common/ProxyDaoFactoryImpI.java" />
-        <option value="$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/Client.java" />
-        <option value="$PROJECT_DIR$/Leetcode/pom.xml" />
-        <option value="$PROJECT_DIR$/GetOffer/pom.xml" />
-        <option value="$PROJECT_DIR$/GetOffer/src/main/java/p1_Find/Solution.java" />
-        <option value="$PROJECT_DIR$/Others/src/main/java/xiaoniangao/p2/Main.java" />
-        <option value="$PROJECT_DIR$/Others/src/main/java/xiaoniangao/p3/Main.java" />
-        <option value="$PROJECT_DIR$/Others/src/main/java/aiqiyi/P2/main.java" />
-        <option value="$PROJECT_DIR$/Others/src/main/java/aiqiyi/P2/Main.java" />
-        <option value="$PROJECT_DIR$/SwordToOffer/pom.xml" />
-        <option value="$PROJECT_DIR$/Others/src/main/java/xiaoniangao/p1/Main.java" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -268,272 +124,19 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/back_end/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\back_end\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="55" />
-    <option name="width" value="1311" />
-    <option name="height" value="576" />
+    <option name="x" value="120" />
+    <option name="width" value="1301" />
+    <option name="height" value="582" />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>Abstraction issuesJava</id>
-          </State>
-          <State>
-            <id>Android</id>
-          </State>
-          <State>
-            <id>Assignment issuesJava</id>
-          </State>
-          <State>
-            <id>Bitwise operation issuesJava</id>
-          </State>
-          <State>
-            <id>Bitwise operation issuesJavaScript</id>
-          </State>
-          <State>
-            <id>CDI (Contexts and Dependency Injection)</id>
-          </State>
-          <State>
-            <id>Class metricsJava</id>
-          </State>
-          <State>
-            <id>Class structureJava</id>
-          </State>
-          <State>
-            <id>Cloning issuesJava</id>
-          </State>
-          <State>
-            <id>Code maturityJava</id>
-          </State>
-          <State>
-            <id>Code style issuesJava</id>
-          </State>
-          <State>
-            <id>Code style issuesJavaScript</id>
-          </State>
-          <State>
-            <id>CodeSpring CoreSpring</id>
-          </State>
-          <State>
-            <id>Compiler issuesJava</id>
-          </State>
-          <State>
-            <id>Control flow issuesJava</id>
-          </State>
-          <State>
-            <id>Control flow issuesJavaScript</id>
-          </State>
-          <State>
-            <id>CorrectnessLintAndroid</id>
-          </State>
-          <State>
-            <id>DOM issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Data flowJava</id>
-          </State>
-          <State>
-            <id>Data flowJavaScript</id>
-          </State>
-          <State>
-            <id>Declaration redundancyJava</id>
-          </State>
-          <State>
-            <id>ECMAScript 6 migration aidsJavaScript</id>
-          </State>
-          <State>
-            <id>EncapsulationJava</id>
-          </State>
-          <State>
-            <id>Error handlingJava</id>
-          </State>
-          <State>
-            <id>Error handlingJavaScript</id>
-          </State>
-          <State>
-            <id>FinalizationJava</id>
-          </State>
-          <State>
-            <id>General</id>
-          </State>
-          <State>
-            <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>Google Web Toolkit</id>
-          </State>
-          <State>
-            <id>Groovy</id>
-          </State>
-          <State>
-            <id>ImportsJava</id>
-          </State>
-          <State>
-            <id>Inheritance issuesJava</id>
-          </State>
-          <State>
-            <id>InitializationJava</id>
-          </State>
-          <State>
-            <id>InternationalizationJava</id>
-          </State>
-          <State>
-            <id>J2ME issuesJava</id>
-          </State>
-          <State>
-            <id>JBoss Seam</id>
-          </State>
-          <State>
-            <id>JSP</id>
-          </State>
-          <State>
-            <id>JUnitJava</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>Java 5Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java 8Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java 9Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java EE</id>
-          </State>
-          <State>
-            <id>Java interop issuesKotlin</id>
-          </State>
-          <State>
-            <id>Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>JavaBeans issuesJava</id>
-          </State>
-          <State>
-            <id>JavaFX</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>JavaScript function metricsJavaScript</id>
-          </State>
-          <State>
-            <id>JavadocJava</id>
-          </State>
-          <State>
-            <id>Kotlin</id>
-          </State>
-          <State>
-            <id>LintAndroid</id>
-          </State>
-          <State>
-            <id>LoggingJava</id>
-          </State>
-          <State>
-            <id>MemoryJava</id>
-          </State>
-          <State>
-            <id>Method metricsJava</id>
-          </State>
-          <State>
-            <id>Naming conventionsJava</id>
-          </State>
-          <State>
-            <id>Numeric issuesJava</id>
-          </State>
-          <State>
-            <id>PerformanceJava</id>
-          </State>
-          <State>
-            <id>PerformanceLintAndroid</id>
-          </State>
-          <State>
-            <id>Plugin DevKit</id>
-          </State>
-          <State>
-            <id>PortabilityJava</id>
-          </State>
-          <State>
-            <id>Potentially confusing code constructsJavaScript</id>
-          </State>
-          <State>
-            <id>Probable bugsGroovy</id>
-          </State>
-          <State>
-            <id>Probable bugsJava</id>
-          </State>
-          <State>
-            <id>Probable bugsJavaScript</id>
-          </State>
-          <State>
-            <id>Probable bugsKotlin</id>
-          </State>
-          <State>
-            <id>SecurityJava</id>
-          </State>
-          <State>
-            <id>SecurityLintAndroid</id>
-          </State>
-          <State>
-            <id>Serialization issuesJava</id>
-          </State>
-          <State>
-            <id>Spring</id>
-          </State>
-          <State>
-            <id>Spring CoreSpring</id>
-          </State>
-          <State>
-            <id>Spring DataSpring</id>
-          </State>
-          <State>
-            <id>Threading issuesGroovy</id>
-          </State>
-          <State>
-            <id>Threading issuesJava</id>
-          </State>
-          <State>
-            <id>TypeScript</id>
-          </State>
-          <State>
-            <id>UsabilityLintAndroid</id>
-          </State>
-          <State>
-            <id>Verbose or redundant code constructsJava</id>
-          </State>
-          <State>
-            <id>VisibilityJava</id>
-          </State>
-          <State>
-            <id>Web Services</id>
-          </State>
-        </expanded-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -543,34 +146,76 @@
         <subPane>
           <expand>
             <path>
-              <item name="CCF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DAS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DAS" type="462c0819:PsiDirectoryNode" />
               <item name="CCF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CCF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CCF" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DAS" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CCF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CCF" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DAS" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CCF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CCF" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DAS" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CCF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CCF" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DAS" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DAS" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DAS" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DAS" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reflection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DAS" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reflection" type="462c0819:PsiDirectoryNode" />
+              <item name="Reflection1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -583,42 +228,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541159805728" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SwordToOffer" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="LinkedList" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\MyWork\我的项目\DSA\Algorithm\src\main\java\search" />
-      <recent name="D:\MyWork\我的项目\DSA\MySort\src\main\java" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="xiaoniangao.p3" />
-      <recent name="xiaoniangao.p2" />
-      <recent name="LeetCode.p150_evalRPN" />
-      <recent name="tengxun.p2" />
-      <recent name="string.leetcode132" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\MyWork\我的项目\DSA\Others\src\main\java" />
-      <recent name="D:\MyWork\我的项目\DSA\DesignPattern\src\main\java" />
-      <recent name="D:\MyWork\我的项目\DSA\C++" />
-      <recent name="D:\MyWork\我的项目\DSA\MySort\src\main\java" />
-      <recent name="D:\MyWork\我的项目\DSA\MyDataStructures\src\main\java" />
-    </key>
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542349145330" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringBootLearn" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -632,1148 +244,131 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xiaoniangao.p1.Main" />
-      <module name="Others" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+  <component name="RunManager">
+    <configuration name="ArrayListStudy.sizeStudy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaBase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xiaoniangao.p1.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.QuickSort" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="launchBrowserUrl" value="" />
-      <setting name="depsClasspath" value="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BubbleSort.bubbleSort2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sort" />
-      <option name="MAIN_CLASS_NAME" value="sort.BubbleSort" />
-      <option name="METHOD_NAME" value="bubbleSort2Test" />
+      <option name="PACKAGE_NAME" value="collection" />
+      <option name="MAIN_CLASS_NAME" value="collection.ArrayListStudy" />
+      <option name="METHOD_NAME" value="sizeStudy" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client.newClient2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProxyPattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ProxyPattern" />
-      <option name="MAIN_CLASS_NAME" value="ProxyPattern.Client" />
-      <option name="METHOD_NAME" value="newClient2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client.newClient3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProxyPattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ProxyPattern" />
-      <option name="MAIN_CLASS_NAME" value="ProxyPattern.Client" />
-      <option name="METHOD_NAME" value="newClient3" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="JUnit.Client.newClient2" />
-      <item itemvalue="JUnit.Client.newClient3" />
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="JUnit.BubbleSort.bubbleSort2Test" />
-      <item itemvalue="Application.Main" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.BubbleSort.bubbleSort2Test" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="JUnit.Client.newClient3" />
-        <item itemvalue="JUnit.Client.newClient2" />
+        <item itemvalue="JUnit.ArrayListStudy.sizeStudy" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="StructureViewFactory">
-    <option name="AUTOSCROLL_MODE" value="false" />
-    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d1f6b812-fdde-4fcf-9bf3-2702d7394379" name="Default" comment="" />
-      <created>1534983702492</created>
+      <changelist id="f3164a97-78b1-47c4-b609-0ec358b52726" name="Default Changelist" comment="" />
+      <created>1542086226124</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1534983702492</updated>
-      <workItem from="1534983706377" duration="1326000" />
-      <workItem from="1534985320135" duration="4224000" />
-      <workItem from="1535014491120" duration="7676000" />
-      <workItem from="1535026398856" duration="36000" />
-      <workItem from="1535063963625" duration="16525000" />
-      <workItem from="1535165211950" duration="615000" />
-      <workItem from="1535178549023" duration="4645000" />
-      <workItem from="1535246895914" duration="12251000" />
-      <workItem from="1535352022775" duration="40000" />
-      <workItem from="1535360924926" duration="1835000" />
-      <workItem from="1535435171070" duration="6617000" />
-      <workItem from="1535501135860" duration="1030000" />
-      <workItem from="1535502271836" duration="558000" />
-      <workItem from="1535518045220" duration="2660000" />
-      <workItem from="1535970741956" duration="4147000" />
-      <workItem from="1536019328448" duration="3320000" />
-      <workItem from="1536064489820" duration="2343000" />
-      <workItem from="1536066951496" duration="455000" />
-      <workItem from="1536067449318" duration="243000" />
-      <workItem from="1536068263150" duration="264000" />
-      <workItem from="1536068563605" duration="218000" />
-      <workItem from="1536068808932" duration="601000" />
-      <workItem from="1536104940743" duration="1826000" />
-      <workItem from="1536193695273" duration="1164000" />
-      <workItem from="1536228276449" duration="612000" />
-      <workItem from="1536280247432" duration="12263000" />
-      <workItem from="1536311416323" duration="820000" />
-      <workItem from="1536322597698" duration="1998000" />
-      <workItem from="1536364990065" duration="17264000" />
-      <workItem from="1536419341415" duration="32000" />
-      <workItem from="1536447998036" duration="1417000" />
-      <workItem from="1536457274088" duration="8984000" />
-      <workItem from="1536489556164" duration="4685000" />
-      <workItem from="1536536477333" duration="34000" />
-      <workItem from="1536540279498" duration="17270000" />
-      <workItem from="1536623118819" duration="8970000" />
-      <workItem from="1536646372240" duration="8879000" />
-      <workItem from="1536659204781" duration="623000" />
-      <workItem from="1536712469691" duration="10872000" />
-      <workItem from="1536731638101" duration="15525000" />
-      <workItem from="1536796909937" duration="12397000" />
-      <workItem from="1536828983437" duration="588000" />
-      <workItem from="1537065246762" duration="3354000" />
-      <workItem from="1537146445842" duration="48000" />
-      <workItem from="1537146569718" duration="1056000" />
-      <workItem from="1537171338729" duration="32000" />
-      <workItem from="1537229733027" duration="29000" />
-      <workItem from="1537443840492" duration="3636000" />
-      <workItem from="1537521152795" duration="6224000" />
-      <workItem from="1537592876611" duration="6595000" />
-      <workItem from="1537606008317" duration="5994000" />
-      <workItem from="1537668444945" duration="10809000" />
-      <workItem from="1537698663011" duration="1485000" />
-      <workItem from="1537713344282" duration="378000" />
-      <workItem from="1537713795067" duration="70000" />
-      <workItem from="1537853946502" duration="2540000" />
-      <workItem from="1537926411238" duration="3963000" />
-      <workItem from="1537975414661" duration="2772000" />
-      <workItem from="1538060550466" duration="3817000" />
-      <workItem from="1538091873989" duration="7399000" />
-      <workItem from="1538129402906" duration="6126000" />
-      <workItem from="1538146657316" duration="592000" />
-      <workItem from="1538186491002" duration="15990000" />
-      <workItem from="1538222753550" duration="1164000" />
-      <workItem from="1538283804309" duration="711000" />
-      <workItem from="1538410314061" duration="13000" />
-      <workItem from="1538489700640" duration="979000" />
-      <workItem from="1538491485504" duration="25000" />
-      <workItem from="1538491601609" duration="251000" />
-      <workItem from="1538491899824" duration="26000" />
-      <workItem from="1538491962804" duration="16000" />
-      <workItem from="1538618445374" duration="16278000" />
-      <workItem from="1538710094810" duration="14563000" />
-      <workItem from="1538807944917" duration="8825000" />
-      <workItem from="1538833885813" duration="63000" />
-      <workItem from="1540977768359" duration="856000" />
-      <workItem from="1540979448827" duration="1119000" />
-      <workItem from="1540986252398" duration="1390000" />
-      <workItem from="1540994711134" duration="164000" />
-      <workItem from="1540995542537" duration="148000" />
-      <workItem from="1541035802972" duration="1926000" />
-      <workItem from="1541043219102" duration="545000" />
-      <workItem from="1541044813994" duration="1124000" />
-      <workItem from="1541049073657" duration="933000" />
-      <workItem from="1541057631078" duration="2507000" />
-      <workItem from="1541145893117" duration="3415000" />
-      <workItem from="1541154490946" duration="2565000" />
-      <workItem from="1541498737882" duration="444000" />
-      <workItem from="1541500546085" duration="7000" />
-      <workItem from="1541554454283" duration="288000" />
-      <workItem from="1541640739666" duration="82000" />
+      <updated>1542086226124</updated>
+      <workItem from="1542086229977" duration="1012000" />
+      <workItem from="1542088952659" duration="15000" />
+      <workItem from="1542332266158" duration="2956000" />
     </task>
-    <task id="LOCAL-00001" summary="update">
-      <created>1541146965894</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1541146965894</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Client_newClient2 - 2018.10.06 at 15h 42m 54s.xml">
-      <configuration name="Client.newClient2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Client_newClient2 - 2018.10.06 at 15h 43m 02s.xml">
-      <configuration name="Client.newClient2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Client_newClient2 - 2018.10.06 at 15h 43m 06s.xml">
-      <configuration name="Client.newClient2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Client_newClient2 - 2018.10.06 at 15h 44m 26s.xml">
-      <configuration name="Client.newClient2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Client_newClient2 - 2018.10.06 at 15h 55m 38s.xml">
-      <configuration name="Client.newClient2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Client_newClient2 - 2018.10.06 at 15h 57m 26s.xml">
-      <configuration name="Client.newClient2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Client_newClient2 - 2018.10.06 at 15h 57m 40s.xml">
-      <configuration name="Client.newClient2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Client_newClient2 - 2018.10.06 at 16h 34m 28s.xml">
-      <configuration name="Client.newClient2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Client_newClient3 - 2018.10.06 at 17h 07m 58s.xml">
-      <configuration name="Client.newClient3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BubbleSort_bubbleSort2Test - 2018.11.01 at 13h 53m 11s.xml">
-      <configuration name="BubbleSort.bubbleSort2Test" configurationId="JUnit" />
+    <history-entry file="ArrayListStudy_sizeStudy - 2018.11.13 at 13h 30m 33s.xml">
+      <configuration name="ArrayListStudy.sizeStudy" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="341188000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="3983000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="0" width="1321" height="768" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47990543" visible="true" weight="0.25411764" />
-      <window_info id="Designer" order="1" />
-      <window_info id="JRebel" order="2" sideWeight="0.5200946" side_tool="true" weight="0.21860817" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21633889" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info x="57" y="146" width="1182" height="554" id="Documentation" order="5" type="FLOATING" />
-      <window_info id="Image Layers" order="6" />
-      <window_info id="Capture Tool" order="7" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.26771653" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33494365" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32755905" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.2992126" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32913387" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32755905" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5030257" side_tool="true" weight="0.32755905" />
-      <window_info anchor="bottom" id="JRebel Console" order="11" side_tool="true" weight="0.329582" />
-      <window_info anchor="bottom" id="JRebel Executor" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.24924242" />
-      <window_info anchor="right" id="Palette" order="2" />
-      <window_info anchor="right" id="Structure" order="3" weight="0.19062027" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.18588236" />
-      <window_info active="true" anchor="right" id="Database" order="5" visible="true" weight="0.32941177" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Coverage" order="7" side_tool="true" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.24960753" />
-      <window_info anchor="right" id="Capture Analysis" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.2749591" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode/src/main/java/leetcode99/FreqStack.java</url>
-          <line>73</line>
-          <properties />
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>58</line>
-          <properties />
-          <option name="timeStamp" value="260" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>68</line>
-          <properties />
-          <option name="timeStamp" value="261" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>66</line>
-          <properties />
-          <option name="timeStamp" value="262" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="263" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="264" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="266" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="267" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="268" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="270" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="271" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="272" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>41</line>
-          <properties />
-          <option name="timeStamp" value="273" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>42</line>
-          <properties />
-          <option name="timeStamp" value="274" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>44</line>
-          <properties />
-          <option name="timeStamp" value="275" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>45</line>
-          <properties />
-          <option name="timeStamp" value="276" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>38</line>
-          <properties />
-          <option name="timeStamp" value="277" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/tengxun/p1/Main.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="303" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/tengxun/p1/Main.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="304" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/tengxun/p1/Main.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="305" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/tengxun/p1/Main.java</url>
-          <line>38</line>
-          <properties />
-          <option name="timeStamp" value="306" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/tengxun/p1/Main.java</url>
-          <line>41</line>
-          <properties />
-          <option name="timeStamp" value="307" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/tengxun/p1/Main.java</url>
-          <line>42</line>
-          <properties />
-          <option name="timeStamp" value="308" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/tengxun/p1/Main.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="310" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/tengxun/p1/Main.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="311" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/tengxun/p1/Main.java</url>
-          <line>44</line>
-          <properties />
-          <option name="timeStamp" value="312" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/zjtd/P2/Main.java</url>
-          <line>42</line>
-          <properties />
-          <option name="timeStamp" value="336" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/zjtd/P2/Main.java</url>
-          <line>44</line>
-          <properties />
-          <option name="timeStamp" value="337" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/zjtd/P2/Main.java</url>
-          <line>45</line>
-          <properties />
-          <option name="timeStamp" value="338" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/zjtd/P2/Main.java</url>
-          <line>46</line>
-          <properties />
-          <option name="timeStamp" value="339" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/zhihu/p2/Main.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="406" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/zhihu/p2/Main.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="407" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/zhihu/p2/Main.java</url>
-          <line>42</line>
-          <properties />
-          <option name="timeStamp" value="408" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/zhihu/p2/Main.java</url>
-          <line>43</line>
-          <properties />
-          <option name="timeStamp" value="409" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/zhihu/p2/Main.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="410" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Others/src/main/java/zhihu/p2/Main.java</url>
-          <line>32</line>
-          <properties />
-          <option name="timeStamp" value="411" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort3.java</url>
-          <line>20</line>
-          <properties class="sort.QuickSort3" method="quickSort" />
-          <option name="timeStamp" value="259" />
-        </line-breakpoint>
-      </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-    </breakpoint-manager>
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p160_getIntersectionNode/Leetcode160_getIntersectionNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p633_judgeSquareSum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" selection-start-line="7" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p141_hasCycle/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1610">
-          <caret line="73" column="19" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p206_reverseList/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p524_findLongestWord/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p347_topKFrequent/Solution.java">
+    <entry file="file://$PROJECT_DIR$/DataStructuresProblem/src/main/java/Tree/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaBase/src/main/java/collection/ArrayListStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaBase/src/main/java/file/MergeFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaBase/src/main/java/file/UpdateFilesName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p167_twoSum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Others/src/main/java/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/Others/src/main/java/zhihu/d.java" />
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p150_evalRPN/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Others/src/main/java/zhihu/p2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="imports" />
-            <element signature="method#isNum#0;class#Main#0" />
-            <element signature="method#evalRPN#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Others/src/main/java/zhihu/p3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Others/src/main/java/zhihu/p1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/main/java/LeetCode/p70_climbStairs/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/main/java/package0and1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="83" column="35" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/Client.java" />
-    <entry file="file://$PROJECT_DIR$/DesignPattern/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/TeacherDaoImpI.java" />
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/IstudentDaoProxy.java" />
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/IteacherDao.java" />
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/DecoratorPattern/装饰模式--图形界面构建库.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="161">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/software/java/1.8/src.zip!/java/lang/reflect/InvocationHandler.java" />
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/common/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="-121">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/software/java/1.8/src.zip!/java/lang/reflect/Proxy.java" />
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/IstudentDao.java" />
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/StudentDaoImpI.java">
+    <entry file="file://$PROJECT_DIR$/JavaBase/src/main/java/reflection/Reflection1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/ProxyDaoHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/StudentDaoProxyImpI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/common/AccessValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/dao/IproxyBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/common/IProxyDaoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/common/ProxyDaoFactoryImpI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/main/java/ProxyPattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/string/KMP/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyDataStructures/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/main/java/sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/main/java/p1_Find/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Others/src/main/java/xiaoniangao/p2/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Others/src/main/java/xiaoniangao/p3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Others/src/main/java/aiqiyi/P2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/main/java/p3_printListFromTailToHead/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/main/java/p4_reConstructBinaryTree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <element signature="docComment;class#TreeNode#0;class#Solution#0" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordToOffer/src/main/java/p1_arrayFind/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/jdk1.8.0_161/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4770">
-          <caret line="298" column="33" selection-start-line="298" selection-start-column="33" selection-end-line="298" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Others/src/main/java/xiaoniangao/p1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>SwordToOffer</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.3847803" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

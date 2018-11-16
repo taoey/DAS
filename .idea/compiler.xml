@@ -14,22 +14,7 @@
         <module name="Leetcode" />
         <module name="MyDataStructures" />
         <module name="Others" />
-        <module name="SwordToOffer" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Algorithm" target="1.8" />
-      <module name="CCF" target="1.8" />
-      <module name="DataStructuresProblem" target="1.8" />
-      <module name="DesignPartten" target="1.5" />
-      <module name="DesignPattern" target="1.8" />
-      <module name="DSA" target="1.8" />
-      <module name="JavaBase" target="1.8" />
-      <module name="Leetcode" target="1.8" />
-      <module name="MyDataStructures" target="1.8" />
-      <module name="MySort" target="1.5" />
-      <module name="Others" target="1.8" />
-      <module name="SwordToOffer" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

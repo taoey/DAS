@@ -10,6 +10,7 @@
         <module name="CCF" />
         <module name="DataStructuresProblem" />
         <module name="DesignPattern" />
+        <module name="FreamLearn" />
         <module name="JavaBase" />
         <module name="Leetcode" />
         <module name="MyDataStructures" />

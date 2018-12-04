@@ -13,7 +13,7 @@ public class BinarySearch {
 		int middle = 0;
 	    if(key < arr[low] || key > arr[high] || low > high){  
 	        return -1;                
-	    }  		
+	    }
 		while(low <= high) {
 			middle = (low + high)/2;
 			if(key < arr[middle]) {

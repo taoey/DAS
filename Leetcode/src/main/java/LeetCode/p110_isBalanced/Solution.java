@@ -1,4 +1,4 @@
-package LeetCode110_isBalanced;
+package LeetCode.p110_isBalanced;
 /**
  * 判断一个二叉树使用是平衡二叉树
  * @author tao
@@ -10,7 +10,7 @@ class TreeNode {
      TreeNode right;
      TreeNode(int x) { val = x; }
  }
-public class LeetCode110_isBalanced {
+public class Solution {
 	public boolean isBalanced(TreeNode root) {
         return getHeight(root) > -1;
     }

@@ -18,6 +18,7 @@
         <module>DataStructuresProblem</module>
         <module>Algorithm</module>
         <module>FreamLearn</module>
+        <module>LittleTool</module>
     </modules>
     <properties>
         <junit.version>4.12</junit.version>

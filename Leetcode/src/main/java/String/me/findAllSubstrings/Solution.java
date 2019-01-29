@@ -1,4 +1,4 @@
-package string.me.findAllSubstrings;
+package String.me.findAllSubstrings;
 
 import java.util.ArrayList;
 import java.util.List;

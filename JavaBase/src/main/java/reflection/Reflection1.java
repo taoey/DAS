@@ -43,9 +43,5 @@ public class Reflection1 {
         Object methodReturn = method.invoke(obj);     //让某个对象执行这个方法
         System.out.println(methodReturn);             //输出该方法返回的值
 
-
-
-
-
     }
 }

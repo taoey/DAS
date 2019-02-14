@@ -26,6 +26,7 @@
         <dom4j.version>1.6.1</dom4j.version>
         <jaxen.version>1.1.1</jaxen.version>
         <jedis.version>2.9.0</jedis.version>
+        <quartz.version>2.3.0</quartz.version>
     </properties>
     <dependencyManagement>
         <dependencies>
@@ -71,7 +72,12 @@
                 <artifactId>jedis</artifactId>
                 <version>${jedis.version}</version>
             </dependency>
-
+            <!--定时任务框架-->
+            <dependency>
+                <groupId>org.quartz-scheduler</groupId>
+                <artifactId>quartz</artifactId>
+                <version>${quartz.version}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 

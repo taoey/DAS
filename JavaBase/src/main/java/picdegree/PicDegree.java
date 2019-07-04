@@ -16,10 +16,10 @@ public class PicDegree {
 
             for (Directory directory : metadata.getDirectories()){
                 for (Tag tag : directory.getTags()){
-                    if(tag.getTagName().equals("Orientation")){
-                        System.out.println(tag.getDescription());
-                    }
+                    System.out.print(tag.getTagName() + " --> ");
+                    System.out.println(tag.getDescription());
                 }
+
                 if (directory.hasErrors()){
                     for (String error : directory.getErrors()){
                         System.err.println("ERROR: " + error);
@@ -35,8 +35,9 @@ public class PicDegree {
     }
 
     public static void main(String[] args) {
-        String picpath = "E:\\projects\\back-end\\DAS\\JavaBase\\src\\main\\java\\picdegree\\pics\\IMG_20190704_150836.jpg";
+        String picpath = "E:\\projects\\back-end\\DAS\\JavaBase\\src\\main\\java\\picdegree\\IMG_20190704_150836.jpg";
         String picInfo = getPicInfo(picpath);
+        System.out.println(picInfo);
     }
 
 }

@@ -23,6 +23,12 @@
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
         </dependency>
+        <!--获取图片信息依赖-->
+        <dependency>
+            <groupId>com.drewnoakes</groupId>
+            <artifactId>metadata-extractor</artifactId>
+            <version>2.11.0</version>
+        </dependency>
     </dependencies>
 
 

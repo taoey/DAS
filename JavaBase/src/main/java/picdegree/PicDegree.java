@@ -35,7 +35,7 @@ public class PicDegree {
     }
 
     public static void main(String[] args) {
-        String picpath = "E:\\projects\\back-end\\DAS\\JavaBase\\src\\main\\java\\picdegree\\IMG_20190704_150836.jpg";
+        String picpath = "E:\\projects\\back-end\\DAS\\JavaBase\\src\\main\\java\\picdegree\\pics\\wedding-8717.jpg";
         String picInfo = getPicInfo(picpath);
         System.out.println(picInfo);
     }

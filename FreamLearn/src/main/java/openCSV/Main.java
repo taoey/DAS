@@ -30,7 +30,7 @@ public class Main {
     }
     @Test
     public void readCSVByAnnotationByColPostion() throws Exception{
-        String filePath = "E:\\projects\\back-end\\DAS\\LittleTool\\src\\main\\java\\Alipay\\read-data2.csv";
+        String filePath = "E:\\projects\\back-end\\DAS\\FreamLearn\\src\\main\\java\\openCSV\\read-data.csv";
         File f = new File(filePath);
         InputStreamReader inReader = new InputStreamReader(new FileInputStream(f),"GBK");
         BufferedReader br = new BufferedReader(inReader);
@@ -47,27 +47,27 @@ public class Main {
 
 
     public static  void read() throws Exception{
-        String filePath = "E:\\projects\\back-end\\DAS\\LittleTool\\src\\main\\java\\Alipay\\data.csv";
+        String filePath = "E:\\projects\\back-end\\DAS\\FreamLearn\\src\\main\\java\\openCSV\\read-data.csv";
         File f = new File(filePath);
         DataInputStream in = new DataInputStream(new FileInputStream(f));
         CSVReader reader = new CSVReader(new InputStreamReader(in,"gbk"));
         List<String[]> list = reader.readAll();
 
         CsvToBean<Student> csvToBean = null;
-        csvToBean = new CsvToBeanBuilder<Student>(new InputStreamReader(in,"gbk"))
-                .withType(Student.class)
+        csvToBean = new CsvToBeanBuilder<Student>(new InputStreamReader(in,"utf-8"))
                 .withIgnoreLeadingWhiteSpace(true)
+                .withType(Student.class)
                 .build();
 
-        List<Student> customers = csvToBean.parse();
+        List<Student> students = csvToBean.parse();
 
-        System.out.println(customers.toString());
+        System.out.println(students.toString());
 
     }
 
 
     @Test
     public void test() throws Exception{
-        read();
+        readCSVByAnnotationByColPostion();
     }
 }

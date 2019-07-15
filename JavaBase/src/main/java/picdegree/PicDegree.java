@@ -13,31 +13,30 @@ public class PicDegree {
         File picFile= new File(imagePath);
         try {
             Metadata metadata = ImageMetadataReader.readMetadata(picFile);
-
             for (Directory directory : metadata.getDirectories()){
                 for (Tag tag : directory.getTags()){
                     System.out.print(tag.getTagName() + " --> ");
                     System.out.println(tag.getDescription());
                 }
-
                 if (directory.hasErrors()){
                     for (String error : directory.getErrors()){
                         System.err.println("ERROR: " + error);
                     }
                 }
             }
-
         } catch (Exception e) {
             e.printStackTrace();
         }
-
         return null;
     }
 
+
+
     public static void main(String[] args) {
-        String picpath = "E:\\projects\\back-end\\DAS\\JavaBase\\src\\main\\java\\picdegree\\pics\\wedding-8717.jpg";
+        String picpath = "E:\\projects\\back-end\\DAS\\JavaBase\\src\\main\\java\\picdegree\\pics\\IMG_20190705_19033333.jpg";
         String picInfo = getPicInfo(picpath);
         System.out.println(picInfo);
     }
+
 
 }

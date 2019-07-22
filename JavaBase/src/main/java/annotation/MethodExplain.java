@@ -13,7 +13,4 @@ import java.lang.annotation.Target;
 public @interface MethodExplain {
     String title();    //函数名字
     String author() default ""; // 创作者
-    String[] params() default {};  //参数
-    String date() default "";   //创建日期
-    String explain() default "";  // 函数解释
 }

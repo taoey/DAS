@@ -26,5 +26,12 @@
 ```
     允许子类继承父类中的注解
 ```
+
+实战：创建一个注解，注明方法用途作者信息等
+
+- ClassUtils：用于类的扫描
+- MethodExplain ： 注解定义
+- Main ： 运行方法，打印注解信息
+
 ## 参考资料
 - [java注解的自定义和使用](https://www.cnblogs.com/huojg-21442/p/7239846.html)

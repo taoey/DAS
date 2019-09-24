@@ -130,6 +130,12 @@
                 <artifactId>socket.io-client</artifactId>
                 <version>1.0.0</version>
             </dependency>
+            <!--yaml 配置文件读取-->
+            <dependency>
+                <groupId>org.yaml</groupId>
+                <artifactId>snakeyaml</artifactId>
+                <version>1.23</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 

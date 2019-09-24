@@ -82,6 +82,11 @@
             <groupId>io.socket</groupId>
             <artifactId>socket.io-client</artifactId>
         </dependency>
+        <!--yaml 配置文件读取-->
+        <dependency>
+            <groupId>org.yaml</groupId>
+            <artifactId>snakeyaml</artifactId>
+        </dependency>
     </dependencies>
 
 </project>
